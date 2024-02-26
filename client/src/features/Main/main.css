@@ -1,0 +1,20 @@
+.nav{
+    background-color: black;
+    width: 100vw;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+}
+.footer{
+    background-color: black;
+    width: 100vw;
+    height: 40px;
+}
